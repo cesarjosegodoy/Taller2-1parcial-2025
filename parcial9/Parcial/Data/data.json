@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "Title": "Noticias del D\u00EDa",
+    "Genero": "Noticias",
+    "DiaDeLaSemana": "lunes",
+    "StartTime": 800,
+    "DurationMinutes": 60
+  },
+  {
+    "Id": 3,
+    "Title": "Cine de Tarde",
+    "Genero": "Peliculas",
+    "DiaDeLaSemana": "viernes",
+    "StartTime": 1800,
+    "DurationMinutes": 120
+  },
+  {
+    "Id": 4,
+    "Title": "La cocina",
+    "Genero": "para todos",
+    "DiaDeLaSemana": "miercoles",
+    "StartTime": 20,
+    "DurationMinutes": 60
+  },
+  {
+    "Id": 5,
+    "Title": "coca g",
+    "Genero": "string",
+    "DiaDeLaSemana": "lunes",
+    "StartTime": 0,
+    "DurationMinutes": 0
+  },
+  {
+    "Id": 7,
+    "Title": "Boca campeon",
+    "Genero": "Deporte",
+    "DiaDeLaSemana": "jueves",
+    "StartTime": 20,
+    "DurationMinutes": 60
+  },
+  {
+    "Id": 8,
+    "Title": "string",
+    "Genero": "string",
+    "DiaDeLaSemana": "lunes",
+    "StartTime": 0,
+    "DurationMinutes": 0
+  }
+]
